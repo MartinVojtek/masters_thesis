@@ -10,7 +10,7 @@ interest rate (reinvestment risk). One of the key contributions of the thesis
 is to develop and implement a simulation setup with the help of which we
 quantify the utility loss an investor would incur when ignoring the persistent
 variation in real interest rates. The simulation setup allows us to consider various
-configurations of the real rate process</em>.
+configurations of the real rate process</em>. <br>
 This repository allows a full replication of our master's thesis results.
 The repositoriry is divided into 2 folders.
 
