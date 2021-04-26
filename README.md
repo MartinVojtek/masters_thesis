@@ -26,7 +26,7 @@ Data used in codes below, with source links. Involves own calculations.
 - US_CPI.xlsx - https://fred.stlouisfed.org/series/CPIAUCSL
 - nss_par_data.xlsx - same as 2yTIPSvs3mATIPS.xlsx
 
-<h4>2. Codes</h4>
+<h4>2. Code</h4>
 Simulation procedure and explanations are thoroughly described in the thesis. All codes listed below can be run separately.
 
 - simulation.r - main code of the thesis, runs simulations of r-star, estimates bond yields
